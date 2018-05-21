@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { Jumbotron, Grid, Row, Col, Image, Button} from 'react-bootstrap';
 export default class MovieRows extends Component {
-  render(props) {
+  render() {
     return (
 
 
